@@ -10,3 +10,4 @@ git push -u origin master:se utiliza para subir cambios locales a un repositorio
 ![image alt]( https://github.com/aguilarluzbelen265-coder/tarea/blob/12cc67f209051c9f195d93db3e635629d4092905/Captura%20de%20pantalla%202026-11-01%20002659.jpg)
 ![image alt]( https://github.com/aguilarluzbelen265-coder/tarea/blob/f3036b854b687aeab74b5edf9435c54c80127315/Captura%20de%20pantalla%202026-11-01%20003126.jpg)
 ![image alt]( https://github.com/aguilarluzbelen265-coder/tarea/blob/93b53d1a4158caa07903b917c929950fb18a7cba/Captura%20de%20pantalla%202026-11-01%20003535.jpg)
+![image alt]( https://github.com/aguilarluzbelen265-coder/tarea/blob/448b93664c800b4e8066b299d9da20e55a95a74c/Captura%20de%20pantalla%202026-11-01%20004008.jpg)
