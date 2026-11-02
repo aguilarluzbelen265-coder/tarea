@@ -7,5 +7,5 @@ git status:muestra el actual en el que se encuentra el directorio de trabajo
 git add .:agrega archivos del directorio de trabajo al area de preparacion
 git commit -m:guarda de forma permanente los cambios preparados en el historial del repositorio local 
 git push -u origin master:se utiliza para subir cambios locales a un repositorio remoto
-
+![image alt]( https://github.com/aguilarluzbelen265-coder/tarea/blob/12cc67f209051c9f195d93db3e635629d4092905/Captura%20de%20pantalla%202026-11-01%20002659.jpg)
 
