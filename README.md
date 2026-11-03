@@ -8,6 +8,8 @@ COMANDOS:
 -git commit -m:guarda de forma permanente los cambios preparados en el historial del repositorio local 
 -git push -u origin master:se utiliza para subir cambios locales a un repositorio remoto
 -git log:sirve para ver el historial de todos los commits
+-git log--graph:muestra una representacion grafica en formato de arbol de las ramas y como se han ido uniendo los commits 
+-git log --online:muestra el historial de forma resumida
 
 ![image alt]( https://github.com/aguilarluzbelen265-coder/tarea/blob/c9968ee4831c82517e5bd0f3089739e8d7c2d11a/Captura%20de%20pantalla%202026-11-01%20002659.jpg)
 ![image alt]( https://github.com/aguilarluzbelen265-coder/tarea/blob/12cc67f209051c9f195d93db3e635629d4092905/Captura%20de%20pantalla%202026-11-01%20002659.jpg)
@@ -16,4 +18,7 @@ COMANDOS:
 ![image alt]( https://github.com/aguilarluzbelen265-coder/tarea/blob/448b93664c800b4e8066b299d9da20e55a95a74c/Captura%20de%20pantalla%202026-11-01%20004008.jpg)
 ![image alt]( https://github.com/aguilarluzbelen265-coder/tarea/blob/d2b36a2444e06184db330325e6014c0525e09afb/Captura%20de%20pantalla%202026-11-02%20003711.jpg)
 ![image alt]( https://github.com/aguilarluzbelen265-coder/tarea/blob/6962ea680b3b0e8878f31d758d116e3dc590a879/Captura%20de%20pantalla%202026-11-02%20003858.jpg)
+COMPLICACIONES:
+-Confusion con la ruta de las carpetas,para solucionarlo me asegure de abrir la terminal directamente en la carpeta correcta del proyecto
+-Ejecutar los comandos en la carpeta correspondiente,me asegure de que la carpeta contuviera el archivo git antes de ejecutar comandos
 
